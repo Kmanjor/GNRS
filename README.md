@@ -20,7 +20,8 @@ Pangenome of human nonreference sequences from population-scale long-read sequen
 In order to make sure the results are reproduceable, the pipeline is performed using framework [**Snakemake**](https://snakemake.readthedocs.io/en/stable/) coupled with the environment conducted by [**Anoconda**](https://www.anaconda.com/). And the pipeline can be used in other cohort with long-read sequencing.
 
 The workflow of GNRS on the population-scale long-read sequencing are below:
-![image](https://user-images.githubusercontent.com/42490165/187616551-c578eb18-95d2-4a84-82c1-b0e7290c5fd5.png)
+![image](https://user-images.githubusercontent.com/42490165/187627086-e860577c-1152-4070-a7b9-af615337131a.png)
+
 
 ### Schematic representation of GraphNRS
 * a, Long-read sequencing data from different platforms are de novo assembled and polished. 
@@ -30,22 +31,23 @@ The workflow of GNRS on the population-scale long-read sequencing are below:
 ---
 ### Requirements
 	
-	1. python3
-	2. pysam
-	3. Biopython
-	4. cigar
-	5. numpy
-	6. pyvcf
+	1. wtdbg2 v2.5
+	2. MarginPolish v1.3.0
+	3. Hifiasm v0.16.1-r375
+	4. NextPolish v1.4.0 
+	5. QUAST v5.0.2
+	6. AGE v0.4
+	7. Jasmine v1.1.0
+	8. vg toolkit v1.33.1
+	9. GraphAligner v1.0.13
 
 ---
+---
+### Citation
 
-## Configure the environment
-
-
-## Quick start for the pipeline
-
-
-## Introduction of pipeline
+---
+### Contact
+For advising, bug reporting and requiring help, please post on [Github Issue](https://github.com/Kmanjor/GNRS/issues) or contact tli.aioniya@gmail.com.
 
 
 
