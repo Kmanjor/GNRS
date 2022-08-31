@@ -37,9 +37,10 @@ The workflow of GNRS on the population-scale long-read sequencing are below:
 	4. NextPolish v1.4.0 
 	5. QUAST v5.0.2
 	6. AGE v0.4
-	7. Jasmine v1.1.0
-	8. vg toolkit v1.33.1
-	9. GraphAligner v1.0.13
+	7. Kalign v3.3
+	8. Jasmine v1.1.0
+	9. vg toolkit v1.33.1
+	10. GraphAligner v1.0.13
 
 ---
 ---
