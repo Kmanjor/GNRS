@@ -43,6 +43,16 @@ The workflow of GNRS on the population-scale long-read sequencing are below:
 
 ---
 ---
+### Datasets generated from GNRS
+We provided the NRS callsets of the 539 individuals produced by GNRS from three different long-read sequencing platforms. (i.e. PacBio CLR, PacBio HiFi, and ONT). 
+The sequences and genotypes of the NRSs are publicly available at the National Genomics Data Center (NGDC), China National Center for Bioinformation (CNCB) with project accession number [**PRJCA007976**](https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA007976). 
+The sequences and genotypes of the placed NRSs are available with accession number [**GVM000324**](https://ngdc.cncb.ac.cn/gvm/getProjectDetail?project=GVM000324). 
+And the sequences of the unplaced NRSs are under the accession number [**GWHBHSK00000000**](https://ngdc.cncb.ac.cn/gwh/Assembly/24529/show).
+
+
+
+
+---
 ### Citation
 
 ---
