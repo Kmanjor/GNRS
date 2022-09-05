@@ -1,0 +1,57 @@
+### project pathway
+projectpath: /home/litong/project/NRS_sub_project/github_code_snakemake/output
+
+
+
+### target samples
+SAMPLES:
+  - ONT
+  - CLR
+  - HiFi
+
+
+
+### raw long read
+ont_long_read: /home/litong/database/S288C/seq_data/subsample/741-5_ONT.part_001.fastq
+clr_long_read: /home/litong/database/S288C/seq_data/subsample/JSC20-1_Pacbio_CLR.part_001.fastq
+hifi_long_read: /home/litong/database/S288C/seq_data/subsample/S288C_HiFi.part_001.fastq
+
+
+
+### raw short read
+single_end: /home/litong/database/S288C/seq_data/subsample/S288C_NGS.part_001.fastq
+pair_end_f1: /home/litong/database/S288C/seq_data/subsample/741-5_NGS.R1.part_001.fastq
+pair_end_f2: /home/litong/database/S288C/seq_data/subsample/741-5_NGS.R2.part_001.fastq
+
+
+
+### reference genome
+ref_genome: /home/litong/database/S288C/GCF_000146045.2_R64_genomic.chr_name.fna
+
+
+
+### software pathway
+wtdbg2: /home/litong/software/wtdbg-2.5_x64_linux/wtdbg2
+wtpoa: /home/litong/software/wtdbg-2.5_x64_linux/wtpoa-cns
+minimap2: /home/litong/software/minimap2-2.17_x64-linux/minimap2
+samtools: /home/litong/software/samtools/samtools-1.12/bin/samtools
+nextpolish: /home/litong/software/NextPolish/lib/nextpolish2.py
+hifiasm: /home/litong/software/hifiasm-master/hifiasm
+gfatools: /home/litong/software2/gfatools/gfatools
+quast: /home/litong/software/quast_510/quast-5.1.0rc1/quast.py
+python: /home/litong/anaconda3/bin/python
+seqkit: /home/litong/software/seqkit
+parallel: /home/litong/software/parallel/bin/parallel
+kalign: /home/litong/software/kalign-3.3/src/kalign
+bgzip: /home/litong/software/tabix-0.2.6/bgzip
+tabix: /home/litong/software/tabix-0.2.6/tabix
+vg: /home/litong/software/vg-v1.33.0/vg
+graphaligner: /home/litong/anaconda3/envs/graphaligner/bin/GraphAligner
+
+
+
+### script pathway
+scriptpath: /home/litong/project/NRS_sub_project/github_code_snakemake/script
+
+
+
