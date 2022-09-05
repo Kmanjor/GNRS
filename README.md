@@ -87,6 +87,8 @@ And the sequences of the unplaced NRSs are under the accession number [**GWHBHSK
 
 ---
 ### Citation
+Wu, Z. et al. Graph pangenome reveals functional, evolutionary, and phenotypic significance of human nonreference sequences. submission (2022)
+
 
 ---
 ### Contact
