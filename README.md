@@ -47,6 +47,16 @@ The workflow of GNRS on the population-scale long-read sequencing are below:
 ### Configure the environment
 Install the software and configure the environment:
 * [**wtdbg2 v2.5**](https://github.com/ruanjue/wtdbg2)
+* [**MarginPolish v1.3.0**](https://github.com/UCSC-nanopore-cgl/MarginPolish)
+* [**Hifiasm v0.16.1-r375**](https://github.com/chhylp123/hifiasm)
+* [**NextPolish v1.4.0 **](https://github.com/Nextomics/NextPolish)
+* [**QUAST v5.0.2**](https://github.com/ablab/quast)
+* [**AGE v0.4**](http://sv.gersteinlab.org/age/)
+* [**Kalign v3.3**](https://github.com/TimoLassmann/kalign)
+* [**Jasmine v1.1.0**](https://github.com/mkirsche/Jasmine)
+* [**vg toolkit v1.33.1**](https://github.com/vgteam/vg)
+* [**GraphAligner v1.0.13**](https://github.com/maickrau/GraphAligner)
+* [**snakemake v7.2.1**](https://snakemake.readthedocs.io/en/stable/)
 
 
 ---
