@@ -44,6 +44,12 @@ The workflow of GNRS on the population-scale long-read sequencing are below:
 	11. snakemake v7.2.1
 
 ---
+### Configure the environment
+Install the software and configure the environment:
+* [**wtdbg2 v2.5**](https://github.com/ruanjue/wtdbg2)
+
+
+---
 ### Quick start for the pipeline
 usage: snakemake -p -s GNRS.pipeline.py --configfile GNRS.pipeline.yaml --cores
 
