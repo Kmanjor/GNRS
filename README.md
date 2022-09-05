@@ -64,7 +64,9 @@ Please note the comments in the pipeline. Change the sample path in the configur
 ---
 ### Quick start for the pipeline
 usage: snakemake -p -s GNRS.pipeline.py --configfile GNRS.pipeline.yaml --cores
+
 We tested the pipeline on yeast dataset.
+
 Whole genome sequencing of 741-7-Nanopore [**SRR18365591**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365591/SRR18365591)
 
 
