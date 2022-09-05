@@ -66,8 +66,11 @@ Please note the comments in the pipeline. Change the sample path in the configur
 usage: snakemake -p -s GNRS.pipeline.py --configfile GNRS.pipeline.yaml --cores
 
 We tested the pipeline on yeast dataset.
-
-Whole genome sequencing of 741-7-Nanopore [**SRR18365591**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365591/SRR18365591)
+* ONT: Whole genome sequencing of 741-7-Nanopore [**SRR18365591**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365591/SRR18365591)
+* CLR: Whole genome sequencing of JSC20-1_Pacbio [**SRR18365586**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365586/SRR18365586)
+* HiFi: HiFi-Seq of S288C [**SRR18210286**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18210286/SRR18210286)
+* NGS: Whole genome sequencing of 741-7-NGS [**SRR18365940**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365940/SRR18365940)
+* NGS: BGISEQ of S288C [**SRR17374239**](https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-34/SRR017/17374/SRR17374239/SRR17374239.1)
 
 
 ---
