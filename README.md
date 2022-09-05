@@ -41,8 +41,13 @@ The workflow of GNRS on the population-scale long-read sequencing are below:
 	8. Jasmine v1.1.0
 	9. vg toolkit v1.33.1
 	10. GraphAligner v1.0.13
+	11. snakemake v7.2.1
 
 ---
+### Quick start for the pipeline
+usage: snakemake -p -s GNRS.pipeline.py --configfile GNRS.pipeline.yaml --cores
+
+
 ---
 ### Datasets generated from GNRS
 We provided the NRS callsets of the 539 individuals produced by GNRS from three different long-read sequencing platforms. (i.e. PacBio CLR, PacBio HiFi, and ONT). 
