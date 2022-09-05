@@ -64,8 +64,7 @@ Please note the comments in the pipeline. Change the sample path in the configur
 ---
 ### Quick start for the pipeline
 usage: snakemake -p -s GNRS.pipeline.py --configfile GNRS.pipeline.yaml --cores
-
-We tested the pipeline on yeast dataset.
+Our pipeline works for any species with a reference genome. We tested the pipeline on yeast dataset.
 * S288C reference genome: [**GCF_000146045.2**](https://www.ncbi.nlm.nih.gov/assembly/GCF_000146045.2/)
 * ONT: Whole genome sequencing of 741-7-Nanopore [**SRR18365591**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365591/SRR18365591)
 * CLR: Whole genome sequencing of JSC20-1_Pacbio [**SRR18365586**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365586/SRR18365586)
