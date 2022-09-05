@@ -49,7 +49,7 @@ Install the software and configure the environment:
 * [**wtdbg2 v2.5**](https://github.com/ruanjue/wtdbg2)
 * [**MarginPolish v1.3.0**](https://github.com/UCSC-nanopore-cgl/MarginPolish)
 * [**Hifiasm v0.16.1-r375**](https://github.com/chhylp123/hifiasm)
-* [**NextPolish v1.4.0 **](https://github.com/Nextomics/NextPolish)
+* [**NextPolish v1.4.0**](https://github.com/Nextomics/NextPolish)
 * [**QUAST v5.0.2**](https://github.com/ablab/quast)
 * [**AGE v0.4**](http://sv.gersteinlab.org/age/)
 * [**Kalign v3.3**](https://github.com/TimoLassmann/kalign)
