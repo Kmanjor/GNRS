@@ -58,10 +58,14 @@ Install the software and configure the environment:
 * [**GraphAligner v1.0.13**](https://github.com/maickrau/GraphAligner)
 * [**snakemake v7.2.1**](https://snakemake.readthedocs.io/en/stable/)
 
+Please note the comments in the pipeline. Change the sample path in the configuration file.
+
 
 ---
 ### Quick start for the pipeline
 usage: snakemake -p -s GNRS.pipeline.py --configfile GNRS.pipeline.yaml --cores
+We tested the pipeline on yeast dataset.
+Whole genome sequencing of 741-7-Nanopore [**SRR18365591**](https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR18365591/SRR18365591)
 
 
 ---
