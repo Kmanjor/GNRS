@@ -1,0 +1,1 @@
+The ALT column of the VCF file named "GraphNRS_all.genotype.vcf.gz" contains the NRS (non-reference sequences). Placed NRS has the genomic coordinates and genotypes, Unplaced NRS contains only the presence/absence genotype. In the INFO column of the VCF file, we labeled the allele frequency of the NRS in the population and which genome it came from.
